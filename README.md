@@ -28,7 +28,7 @@ $ https://github.com/GuigaLn/rocketseat-ignite-react.git
 
 ```bash
 # 2. Acesse a pasta do projeto
-$ cd challenges/chapter-01/ignite-reactjs-conceitos-do-react
+$ cd ignite-reactjs-conceitos-do-react
 ```
 
 ```bash
